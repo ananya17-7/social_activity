@@ -5,7 +5,7 @@ Complete API documentation for Social Activity Feed
 ## Base URL
 
 ```
-http://localhost:5000/api
+http://localhost:5000/api](https://social-activity-io60.onrender.com/api
 ```
 
 ## Authentication
