@@ -16,7 +16,7 @@ build/
 .cache/
 .nuxt/
 coverage/
-API_DOCUMENTATION.md
+
 COMPLETION_REPORT.md
 DEPLOYMENT.md
 INDEX.md
